@@ -7,7 +7,7 @@ const CategoryList = async () => {
   //   console.log(allCategories);
 
   return (
-    <div className="mt-8 bg-gray-100">
+    <div className="mt-8 ">
       <Typography className="font-bold mb-5" variant="h6">
         Categories
       </Typography>
